@@ -4,10 +4,13 @@ body {
 
 .jumbotron {
   text-align: center;
+  letter-spacing: 5px;
 }
 
 h2 {
-  font-size: 25px;
+  font-size: 20px;
+  color: black;
+  text-align: center;
 }
 
 img {
@@ -26,6 +29,22 @@ ul {
   list-style-type: none;
 }
 
+.employer {
+  font-weight: bold;
+}
+
+.title {
+  font-style: italic;
+}
+
 #email {
   font-weight: bold;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.glyphicon {
+  font-size: 30px;
 }
