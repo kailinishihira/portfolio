@@ -1,16 +1,28 @@
 body {
-  background-color: ##fcfdff;
+  background-color: #f7f8f9;
+  font-family: 'Nunito', sans-serif;
+  font-size: 16px;
 }
 
 .jumbotron {
   text-align: center;
-  letter-spacing: 5px;
+  letter-spacing: 16px;
+  color: #535659;
+  background-color: transparent !important;
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 24px;
   color: black;
   text-align: center;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 14px;
+  text-align: center;
+  font-style: italic;
+  color: #535659;
 }
 
 img {
@@ -18,7 +30,7 @@ img {
   float: left;
   padding: 2px;
   border: 2px solid black;
-  margin: 10px;
+  margin: 8px;
 }
 
 .projects a {
@@ -29,7 +41,7 @@ ul {
   list-style-type: none;
 }
 
-.employer {
+.company {
   font-weight: bold;
 }
 
@@ -46,5 +58,11 @@ ul {
 }
 
 .glyphicon {
-  font-size: 30px;
+  font-size: 40px;
+}
+
+.aloha {
+  font-size: 50px;
+  letter-spacing: 2px;
+  font-family: 'Dancing Script', cursive;
 }
