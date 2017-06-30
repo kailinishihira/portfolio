@@ -26,6 +26,6 @@ ul {
   list-style-type: none;
 }
 
-.pull-left {
-  float: left !important;
+#email {
+  font-weight: bold;
 }
