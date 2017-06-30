@@ -26,6 +26,6 @@ _HTML & CSS_
 
 ### License
 
-*This webpage is licensed under the MIT License.*
+*This project is licensed under the MIT License.*
 
 Copyright (c) 2016 **_Kaili Nishihira_**
