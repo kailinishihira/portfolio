@@ -25,3 +25,7 @@ img {
 ul {
   list-style-type: none;
 }
+
+.pull-left {
+  float: left !important;
+}
